@@ -1,0 +1,11 @@
+marks=int(input("Please Enter your marks"))
+if marks>=75:
+    print('Congratulations!!! You got Distinction')
+elif marks>=60 and marks<75:
+    print('Congratulations!!! You got First Class')
+elif marks >=40 and marks<60:
+    print('Congratulations!!! You got Second Class')
+elif marks <40:
+    print('You are failed. Please reattempt')
+else:
+    print('Please enter valid marks')
