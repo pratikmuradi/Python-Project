@@ -1,5 +1,3 @@
-# This is a basic python project
+# Marks Python Project
 <br>
-# Where We are asking marks from student to display their class like wether tey atr first class or second 
-<br>
-class etc.
+Where We are asking marks from student to display their class
